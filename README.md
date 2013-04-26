@@ -24,4 +24,4 @@ The `master` branch does not contain any AngularJS distribution. Our [`stable`](
 
 ## Rationale
 
-This is package is duplicative to [bower-angular](https://github.com/angular/bower-angular), but strives to maintain packages for both the stable and unstable AngularJS branches.
+This is package is slightly duplicative with [bower-angular](https://github.com/angular/bower-angular), but intends to maintain packages for both the stable and unstable AngularJS branches.
