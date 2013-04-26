@@ -1,6 +1,6 @@
 # AngularJS
 
-[Bower](https://github.com/twitter/bower) package for [AngularJS](http://angularjs.org/). This project _makes makes no modifications_ to the stock AngularJS build.
+[Bower](https://github.com/bower/bower) package for [AngularJS](http://angularjs.org/). This project _makes makes no modifications_ to the stock AngularJS build.
 
 ## Branches
 
