@@ -1,6 +1,21 @@
-# AngularJS
+# AngularJS (Unstable)
 
 [Bower](https://github.com/twitter/bower) package for [AngularJS](http://angularjs.org/).
+
+## Usage
+
+To avoid conflicts with the official AngularJS bowser package, this package will remain unregistered. To use it, add the following to your Bower dependencies.
+
+```json
+{
+  "dependencies" : {
+    "angular" : "git@github.com:PatternConsulting/bower-angular.git#1.1.4"
+  }
+}
+```
+
+**Note that _1.1.4_ refers to the tag, which corresponds to the AngularJS release. Visit the [_tags_](https://github.com/PatternConsulting/bower-angular/tags)
+list to see available versions.
 
 ## Branches
 
