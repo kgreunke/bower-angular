@@ -1,6 +1,6 @@
 # AngularJS (Unstable)
 
-[Bower](https://github.com/twitter/bower) package for [AngularJS](http://angularjs.org/).
+[Bower](https://github.com/twitter/bower) package for [AngularJS](http://angularjs.org/). This project _makes makes modifications_ to the stock AngularJS build.
 
 ## Usage
 
