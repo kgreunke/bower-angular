@@ -14,7 +14,7 @@ To avoid conflicts with the official AngularJS bowser package, this package will
 }
 ```
 
-**Note that _1.0.6_ refers to the tag, which corresponds to the AngularJS release. Visit the [_tags_](https://github.com/PatternConsulting/bower-angular/tags)
+**Note that _1.0.6_ refers to the tag**, which corresponds to the AngularJS release. Visit the [_tags_](https://github.com/PatternConsulting/bower-angular/tags)
 list to see available versions.
 
 ## Branches
