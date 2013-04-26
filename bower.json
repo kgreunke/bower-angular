@@ -1,5 +1,6 @@
 {
   "name" : "AngularJS",
+  "version" : "1.0.6",
   "dependencies" : {
   }
 }
