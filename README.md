@@ -1,6 +1,6 @@
 # AngularJS (Stable)
 
-[Bower](https://github.com/twitter/bower) package for [AngularJS](http://angularjs.org/). This project _makes makes modifications_ to the stock AngularJS build.
+[Bower](https://github.com/twitter/bower) package for [AngularJS](http://angularjs.org/). This project _makes makes no modifications_ to the stock AngularJS build.
 
 This branch contains the exploded [`angular-1.0.6.zip`](http://code.angularjs.org/1.0.6/angular-1.0.6.zip) archive.
 
