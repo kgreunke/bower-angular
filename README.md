@@ -9,7 +9,7 @@ To avoid conflicts with the official AngularJS bowser package, this package will
 ```json
 {
   "dependencies" : {
-    "angular" : "git@github.com:PatternConsulting/bower-angular.git"
+    "angular" : "PatternConsulting/bower-angular"
   }
 }
 ```
