@@ -2,7 +2,7 @@
 
 [Bower](https://github.com/bower/bower) package for [AngularJS](http://angularjs.org/). This project _makes makes no modifications_ to the stock AngularJS build.
 
-This branch contains the exploded [`angular-1.1.4.zip`](http://code.angularjs.org/1.1.4/angular-1.1.4.zip) archive.
+This branch contains the exploded [`angular-1.1.5.zip`](http://code.angularjs.org/1.1.5/angular-1.1.5.zip) archive.
 
 ## Usage
 
@@ -16,7 +16,7 @@ To avoid conflicts with the official AngularJS bowser package, this package will
 }
 ```
 
-**Note that _1.1.4_ refers to the tag**, which corresponds to the AngularJS release. Visit the [_tags_](https://github.com/PatternConsulting/bower-angular/tags) list to see available versions, and [usage notes on Bower dependencies](https://github.com/bower/bower#usage) for details.
+**Note that _1.1.5_ refers to the tag**, which corresponds to the AngularJS release. Visit the [_tags_](https://github.com/PatternConsulting/bower-angular/tags) list to see available versions, and [usage notes on Bower dependencies](https://github.com/bower/bower#usage) for details.
 
 ## Branches
 
