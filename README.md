@@ -11,7 +11,7 @@ To avoid conflicts with the official AngularJS bowser package, this package will
 ```json
 {
   "dependencies" : {
-    "angular" : "PatternConsulting/bower-angular"
+    "angular" : "PatternConsulting/bower-angular#1.1.5"
   }
 }
 ```
